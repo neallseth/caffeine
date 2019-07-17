@@ -3,8 +3,9 @@ Utility to make HTTP requests at set intervals, with the option to simulate a br
 
 
 # Instructions
-1.  Edit the fields* in 'config.json'
-2.  Open 'run.bat'
+1.  Install Node
+2.  Edit the fields in **config.json**
+3.  Open **run.bat**
 
 *Note that all values should be in quotes*
 

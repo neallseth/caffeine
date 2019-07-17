@@ -1,0 +1,7 @@
+{
+	"SimulateBrowser":"false",
+
+	"TargetAddress":"http://localhost:5355/SemossWeb/#!/",
+
+	"RequestFrequency":".1"
+}
